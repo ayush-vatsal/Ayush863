@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing, Deep Learning and a few other things
 - 🌱 I’m currently learning Quantum Machine Learning along with my Undergrad in Electronics
 - 💞️ looking to collaborate on QC/QML projects
-- 📫 Drop me a mail on ayushvatsal04@gmail.com
+- 📫 Drop me a mail on ayushvatsal04@gmail.com, or preferably connect with me on LinkedIn.
 
 <!---
 Ayush863/Ayush863 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
